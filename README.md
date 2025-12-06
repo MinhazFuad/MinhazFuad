@@ -65,19 +65,19 @@ Currently pursuing a Bachelor of Engineering in Computer Engineering at United I
 
 ---
 
-## GitHub Stats
+Here is the updated **Tech Stack** section with:
 
-<div align="center">
+* Tailwind CSS added
+* All icons centered
+* Layout preserved and clean
 
-![GitHub Streak](https://streak-stats.demolab.com?user=minhazfuad\&theme=tokyonight\&hide_border=true)
-
-</div>
+You can paste this directly into your README:
 
 ---
 
 ## Tech Stack
 
-<p align="left">
+<div align="center">
 
 <!-- OS / Tools -->
 
@@ -99,12 +99,22 @@ Currently pursuing a Bachelor of Engineering in Computer Engineering at United I
 
 <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-</p>
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=minhazfuad\&theme=tokyonight\&hide_border=true)
+
+</div>
 
 ---
 
