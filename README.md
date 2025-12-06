@@ -22,28 +22,6 @@ Currently Im on **Fedora 43!**
 Currently pursuing a Bachelor of Science in Computer Science and Engineering at United International University.
 ---
 
-## Skills & Expertise
-
-### Machine Learning & AI
-
-* Vision-Language Models
-* Neural Networks, CNNs
-* Data Processing and Evaluation
-
-### Development
-
-* Full-Stack Web Development
-* Python, JavaScript
-* REST APIs, Deployment
-
-### Design
-
-* Branding and Visual Identity
-* UI/UX
-* Digital Media Production
-
----
-
 ## Professional Experience
 
 **Castpotro** — System Administrator
