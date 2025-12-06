@@ -11,7 +11,6 @@
 [![Email](https://img.shields.io/badge/Email-fuad000219%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:fuad000219@gmail.com)
 
 </div>
----
 
 ## About Me
 
