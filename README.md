@@ -59,7 +59,7 @@ Currently pursuing a Bachelor of Science in Computer Science and Engineering at 
 
 ## Education
 
-* **United International University** — BEng, Computer Engineering (2022–2026)
+* **United International University** — BSc, Computer Engineering (2022–2026)
 * **Banophool Adibashi Green Heart College** — HSC, Science (2018–2020)
 * **Monipur High School & College** — SSC (2018)
 
