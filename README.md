@@ -19,28 +19,6 @@ I also bring professional experience in graphic design, enabling me to design fu
 I enjoy tinkering with Linux systems and trying our various distros.
 Currently Im on **Fedora 43!**
 
-Currently pursuing a Bachelor of Science in Computer Science and Engineering at United International University.
----
-
-## Professional Experience
-
-**Castpotro** — System Administrator
-*Apr 2024 – Present*
-
-**Fiverr** — Freelance Graphic Designer
-*2021 – Present*
-
-**Nobel Learning PBC** — Graphic Designer
-*Nov 2023 – Apr 2024*
-
----
-
-## Education
-
-* **United International University** — BSc, Computer Engineering (2022–2026)
-* **Banophool Adibashi Green Heart College** — HSC, Science (2018–2020)
-* **Monipur High School & College** — SSC (2018)
-
 ---
 
 ## Tech Stack
