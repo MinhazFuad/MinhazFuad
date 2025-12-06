@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=github\&logoColor=white)](https://minhazfuad.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/minhaz-fuad-361420365/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge\&logo=behance\&logoColor=white)](https://www.behance.net/vic087)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge\&logo=google-scholar\&logoColor=white)](https://scholar.google.com/citations)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge\&logo=google-scholar\&logoColor=white)](https://scholar.google.com/citations?user=5dM3OOEAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-fuad000219%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:fuad000219@gmail.com)
 
 ---
