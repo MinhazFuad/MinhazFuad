@@ -66,8 +66,6 @@ Currently pursuing a Bachelor of Engineering in Computer Engineering at United I
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhazfuad\&show_icons=true\&theme=tokyonight\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhazfuad\&layout=compact\&theme=tokyonight\&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=minhazfuad\&theme=tokyonight\&hide_border=true)
 
 </div>
@@ -108,6 +106,3 @@ Currently pursuing a Bachelor of Engineering in Computer Engineering at United I
 * Developing scalable full-stack applications
 * Designing high-performance, user-centered systems
 
----
-
-If you want, I can also prepare an ultra-minimal, ultra-flashy, dark-only, or animated version.
