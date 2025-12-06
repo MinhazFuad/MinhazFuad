@@ -65,16 +65,6 @@ Currently pursuing a Bachelor of Science in Computer Science and Engineering at 
 
 ---
 
-Here is the updated **Tech Stack** section with:
-
-* Tailwind CSS added
-* All icons centered
-* Layout preserved and clean
-
-You can paste this directly into your README:
-
----
-
 ## Tech Stack
 
 <div align="center">
