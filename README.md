@@ -19,7 +19,7 @@ I also bring professional experience in graphic design, enabling me to design fu
 I enjoy tinkering with Linux systems and trying our various distros.
 Currently Im on **Fedora 43!**
 
-Currently pursuing a Bachelor of Engineering in Computer Engineering at United International University.
+Currently pursuing a Bachelor of Science in Computer Science and Engineering at United International University.
 ---
 
 ## Skills & Expertise
