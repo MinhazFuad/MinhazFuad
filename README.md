@@ -18,9 +18,6 @@ I am a tinkerer who loves to explore new domains and I enjoy the challenge of th
 I build intelligent systems involving machine learning, vision-language modeling, and full-stack engineering.
 I also bring professional experience in graphic design, enabling me to design functional, intuitive, and visually refined products.
 
-I enjoy tinkering with Linux systems and trying our various distros.
-Currently Im on **Fedora 43!**
-
 ---
 
 ## Tech Stack
