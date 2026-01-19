@@ -75,17 +75,6 @@ I also bring professional experience in graphic design, enabling me to design fu
 
 <div align="center">
 
-<!-- Contribution Streak -->
-<img
-  src="https://streak-stats.demolab.com?user=minhazfuad&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
-<div align="center">
-
 <!-- Contribution Graph / Profile Summary -->
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhazfuad&theme=tokyonight"
@@ -97,18 +86,6 @@ I also bring professional experience in graphic design, enabling me to design fu
 
 <div align="center">
 
-<!-- Language & Repo Activity Cards -->
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhazfuad&theme=tokyonight"
-  height="150"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minhazfuad&theme=tokyonight"
-  height="150"
-/>
-
-</div>
 
 
 ---
