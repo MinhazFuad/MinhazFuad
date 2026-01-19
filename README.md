@@ -57,9 +57,59 @@ I also bring professional experience in graphic design, enabling me to design fu
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=minhazfuad\&theme=tokyonight\&hide_border=true)
+<!-- GitHub Overall Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=minhazfuad&show_icons=true&theme=tokyonight&hide_border=true"
+  height="165"
+/>
+
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhazfuad&layout=compact&theme=tokyonight&hide_border=true"
+  height="165"
+/>
 
 </div>
+
+---
+
+<div align="center">
+
+<!-- Contribution Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=minhazfuad&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Contribution Graph / Profile Summary -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhazfuad&theme=tokyonight"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Language & Repo Activity Cards -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhazfuad&theme=tokyonight"
+  height="150"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minhazfuad&theme=tokyonight"
+  height="150"
+/>
+
+</div>
+
 
 ---
 
