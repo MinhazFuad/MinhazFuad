@@ -61,11 +61,8 @@ I also bring professional experience in graphic design, enabling me to design fu
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhazfuad&theme=tokyonight"
 />
 
-<img
-  src="https://streak-stats.demolab.com?user=minhazfuad&theme=tokyonight&hide_border=true"
-/>
-
 </div>
+
 
 
 
