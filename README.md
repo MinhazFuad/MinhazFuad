@@ -55,27 +55,18 @@ I also bring professional experience in graphic design, enabling me to design fu
 
 ## GitHub Stats
 
-<img
-  src="https://streak-stats.demolab.com?user=minhazfuad
-  &background=1a1b27
-  &ring=7aa2f7
-  &fire=f7768e
-  &currStreakLabel=c0caf5
-  &sideLabels=c0caf5
-  &dates=9aa5ce"
-/>
-
-
 <div align="center">
 
-<!-- Contribution Graph / Profile Summary -->
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhazfuad&theme=tokyonight"
 />
 
+<img
+  src="https://streak-stats.demolab.com?user=minhazfuad&theme=tokyonight&hide_border=true"
+/>
+
 </div>
 
----
 
 
 ## Current Focus
