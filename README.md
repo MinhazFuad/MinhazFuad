@@ -64,8 +64,6 @@ I also bring professional experience in graphic design, enabling me to design fu
 </div>
 
 
-
-
 ## Current Focus
 
 * Advancing skills in multimodal AI
