@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-fuad000219%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:fuad000219@gmail.com)
 
 </div>
-## About Me
+
 
 I am a tinkerer who loves to explore new domains and I enjoy the challenge of the unknown. 
 I build intelligent systems involving machine learning, vision-language modeling, and full-stack engineering.
